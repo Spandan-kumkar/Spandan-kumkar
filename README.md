@@ -1,16 +1,29 @@
-## Hi there 👋
+Hey, I’m Spandan 👋
 
-<!--
-**Spandan-kumkar/Spandan-kumkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.Tech IT student at PICT who is fascinated by two things:
 
-Here are some ideas to get you started:
+🧠 How people think
+💻 How technology works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my curiosity lives somewhere between software engineering, AI systems, psychology, and human-centered technology. I enjoy building things, but I’m equally interested in understanding the people who use them.
+
+Currently, I’m learning full-stack development, exploring AI and machine learning, and trying to become the kind of engineer who can bridge technical systems with human needs.
+
+What you’ll usually find me doing
+
+* Building and breaking side projects
+* Exploring new technologies
+* Learning in public
+* Going down rabbit holes about AI, cognition, and human behavior
+* Turning random curiosities into projects
+
+Current Focus
+
+🌱 JavaScript, React & Full-Stack Development
+🤖 AI & Intelligent Systems
+🧩 Human-Centered Technology
+🚀 Building real-world projects one commit at a time
+
+Curious minds build better systems.
+
+Thanks for stopping by.
