@@ -2,7 +2,7 @@ Hey, I’m Spandan 👋
 
 I’m a B.Tech IT student at PICT who is fascinated by two things:
 
-🧠 How people think
+🧠 How people think <br>
 💻 How technology works
 
 Most of my curiosity lives somewhere between software engineering, AI systems, psychology, and human-centered technology. I enjoy building things, but I’m equally interested in understanding the people who use them.
