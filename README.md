@@ -19,7 +19,7 @@ What you’ll usually find me doing
 
 Current Focus
 
-🌱 JavaScript, React & Full-Stack Development
+🌱 Full-Stack Development & understanding what happens behind the scenes
 🤖 AI & Intelligent Systems
 🧩 Human-Centered Technology
 🚀 Building real-world projects one commit at a time
